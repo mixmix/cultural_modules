@@ -1,4 +1,0 @@
-# Summary
-
-* [Contents](contents.md)
-
