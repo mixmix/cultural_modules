@@ -7,16 +7,16 @@ If you have a small group that you plan to work regularly with, here's a nice st
 It's designed to give you the stability to be able to communicate clearly and effectively, and the flexibility to be able to grow your patterns as a group.
 ( operations --> stability, development --> adaptability )
 
-Inside you meetings
+Inside your meetings
 -------------------
 
-[check in round](../modules/check_in/poster.md)
++[check in round](../modules/check_in/poster.md)
 
-[purpose of this meeting](../modules/whats_the_purpose_of_this_meeting/poster.md)
++[purpose of this meeting](../modules/whats_the_purpose_of_this_meeting/poster.md)
 
-[scope](../modules/scope/poster.md)
++[scope](../modules/scope/poster.md)
 
-[working groups](../modules/working_groups/poster.md)
++[working groups](../modules/working_groups/poster.md)
 
 Facilitator
 
@@ -27,7 +27,7 @@ To evolve your practice and meet changing needs you need to invest in developing
 
 You'll want to use iteration:
 
-[iteration](../modules/iteration/poster.md)
++[iteration](../modules/iteration/poster.md)
 
 One form of iteration that's particularly effective is the Retrospective
 
