@@ -18,7 +18,7 @@ Inside your meetings
 
 +[working groups](../modules/working_groups/poster.md)
 
-Facilitator
+Facilitator - someone should write this
 
 Developing your process
 -----------------------
