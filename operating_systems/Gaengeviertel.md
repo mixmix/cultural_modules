@@ -33,8 +33,8 @@ There is an unresolved accountability challenge. There aren't clear boundaries a
 All three acknowledge that this dynamic might lead to more beauracracy, more locked doors, more rules, and less trust.
 
 
-External
---------
+External Factors
+----------------
 
 - close working relationship with local municipality
   - recently negotiated to take over administration role of several of the rennovated gaengeviertal buildings from municipality
