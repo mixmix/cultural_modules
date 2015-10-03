@@ -1,4 +1,9 @@
 Mix's perspective through conversations and observation over 24 hours (2015, September 30)
+It's broken down using a test framework assuming that organisations are like organisms, and they both have : 
+
+- Selection pressures (which drive change)
+- Structures
+- Adaptive mechanisms
 
 ---
 
@@ -81,8 +86,8 @@ Organisation
 
 I don't know what other organisational structures they have.
 
-Adaptation
-==========
+Adaptive mechanisms
+===================
 
 - general assembly
   - can propose changes here
