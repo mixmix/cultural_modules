@@ -33,7 +33,7 @@ There is an unresolved accountability challenge. There aren't clear boundaries a
 All three acknowledge that this dynamic might lead to more beauracracy, more locked doors, more rules, and less trust.
 
 
-External Factors
+External relationships
 ----------------
 
 - close working relationship with local municipality
