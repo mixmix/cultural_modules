@@ -6,6 +6,8 @@ Open OS is a theoretical organisational system being explored by several Enspira
 +[current work](https://github.com/enspiral/os-book/blob/draft/en/README.md)
 
 +[contributing](https://github.com/enspiral/os-book/blob/draft/en/CONTRIBUTING.md)
+
 +[design principles](https://github.com/enspiral/os-book/blob/draft/en/design_principles.md)
+
 +[levels of organising](https://github.com/enspiral/os-book/blob/draft/en/levels_of_organising.md)
 
