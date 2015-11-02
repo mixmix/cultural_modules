@@ -1,5 +1,4 @@
-Iteration
-=========
+## Iteration
 
 Repeat a process and evolve it.
 
@@ -8,7 +7,5 @@ Repeat a process and evolve it.
 3. Review the success of your possible solution
 4. Repeat
 
-**Unlocks** : Continuous improvement, Retrospectives, Scientific method, Design method, Agile method,  
-**Helps uninstall** : Perfectionism, My-way-or-the-highway
-
-**Warnings** 
+**[Unlocks]** : Continuous improvement, Retrospectives, Scientific method, Design method, Agile method,  
+**[Helps uninstall]** : Perfectionism, My-way-or-the-highway
