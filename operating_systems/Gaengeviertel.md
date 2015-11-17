@@ -1,4 +1,11 @@
 Mix's perspective through conversations and observation over 24 hours (2015, September 30)
+
+http://das-gaengeviertel.info/
+
+
+![](images/gaengeviertel_sky.jpg)
+
+
 It's broken down using a test framework assuming that organisations are like organisms, and they both have : 
 
 - Selection pressures (which drive change)
@@ -107,6 +114,9 @@ Adaptive mechanisms
 - janurary is internal work
   - Every Janurary just do internal work (don't do exhibitions / courses). This is when a lot of internal work gets done (on processes and physical space).
 
+---
+
+![](images/gaengeviertel_alley.jpg)
 
 ---
 
@@ -188,15 +198,24 @@ In a pause in conversation Till re-asserts speaking order.
 Follow-up questions 
 -------------------
 
-[answers from till in *italics*]
+[answers from Till in *italics*]
 
-- How are meeting roles allocated? *- by volunteering at the start*
-- Seems there's a person taking paper notes now. Want to know what's in them, and whether they go online. *- notes of decisions made, they get emailed out to everyone*
-- Why did the person yell in form the corner of the meeting *- because they wanted to finish what they're saying, because they have important work to be done. They have announced their info multiple times, but are worried some people don't have the info yet*
-- Is there an expectation of meeting length? Do people get exhausted? *- it runs from ~7pm to 9pm so that it's not too long*
-- What's the average dinner time for people and do people eat before the meeting on average? *- the meeting is at 7pm so people who work can come. people generally eat later*
-- Do you present the agenda to new people? *- Usually the agenda is communicated a day before the main assembly over the mailing list*
-- Do people know the method of interupting? *- Interrupting is actually considered not to be cool, nontheless people keep doing it, when they have the feeling of not being heard enough*
-- I want to know whether Till as facilitator is differentiating his roles clearly, or only performing one. *- good question wink emoticon Actually the main assembly you attended was one of the few that were not prepared, usually the facilitator is decided a week before the next meeting and can prepare better*
-- Why are people sitting outside the circle ? *-Their own choice. Why do people not come to meetings, has anyone asked them? A few people are pretty self-centered artists that don't attend meetings. The large majority of other people comes frequently, especially as soon as there is important topics to decide*
+- How are meeting roles allocated? 
+  - *- by volunteering at the start*
+- Seems there's a person taking paper notes now. Want to know what's in them, and whether they go online. 
+  - *- notes of decisions made, they get emailed out to everyone*
+- Why did the person yell in form the corner of the meeting 
+  - *- because they wanted to finish what they're saying, because they have important work to be done. They have announced their info multiple times, but are worried some people don't have the info yet*
+- Is there an expectation of meeting length? Do people get exhausted? 
+  - *- it runs from ~7pm to 9pm so that it's not too long*
+- What's the average dinner time for people and do people eat before the meeting on average? 
+  - *- the meeting is at 7pm so people who work can come. people generally eat later*
+- Do you present the agenda to new people? 
+  - *- Usually the agenda is communicated a day before the main assembly over the mailing list*
+- Do people know the method of interupting? 
+  - *- Interrupting is actually considered not to be cool, nontheless people keep doing it, when they have the feeling of not being heard enough*
+- I want to know whether Till as facilitator is differentiating his roles clearly, or only performing one. 
+  - *- good question wink emoticon Actually the main assembly you attended was one of the few that were not prepared, usually the facilitator is decided a week before the next meeting and can prepare better*
+- Why are people sitting outside the circle ? 
+  - *-Their own choice. Why do people not come to meetings, has anyone asked them? A few people are pretty self-centered artists that don't attend meetings. The large majority of other people comes frequently, especially as soon as there is important topics to decide*
 
