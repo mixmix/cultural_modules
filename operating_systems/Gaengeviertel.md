@@ -23,14 +23,16 @@ Named values
 Emergent values 
 ---------------
 
-- Reworking/ overturning decisions
-- Distrust + closed-ness in certain areas 
+- the group has a pattern of re-discussing decissions when someone was not present
+- accountability/ reliability around lending objects seems like a challenge
 
-There is an unresolved accountability challenge. There aren't clear boundaries and it feels like a few people spoil the pattern for the many. This seems to be eroding trust and people seem to feel like they would have to spend personal capital / energy to come to a solution. e.g. : 
+The lending thing seems like it might have eroded some trust and people seem to feel like they would have to spend personal capital / energy to come to a solution. e.g. : 
   - Till lends tools and they often come back broken. He now buys loaning tools he doesn't use that are cheaper and just gets people to replace those when they break them.
   - Daniel says no to people borrowing projecters for personal use 90% of the time. When he does loan these community projectors out they come back broken.
   - Asma (?) loans her bike to people and they lose it. She finds it and when they ask again she has a conversation where she tries to put more rules in, but doesn't like that dynamic.
 All three acknowledge that this dynamic might lead to more beauracracy, more locked doors, more rules, and less trust.
+
+Having said that, people in general like to share a lot within Gaengeviertel (everything is voluntary work based for example), there is also an "acceptance of loss" that is necessary in large collectives
 
 
 External
@@ -54,7 +56,7 @@ Decision making
   - facilitator (volunteer)
   - speaking stack
   - re-litigating: hot topics sometimes re-opened and re-decided when people weren't at last meeting and feel strongly (this is frustrating/ sometimes unfair)
-  - guests welcome, can't vote (?)
+  - guests welcome, can vote
 
 
 Roles
@@ -63,23 +65,32 @@ Roles
 - service role 
   - new people are commonly invite to work in the cafe/ bar, which enables everyone to meet more easily (
 
-- a patre (spelling? literally 'godfather')
+- a Pate (spelling? literally 'godfather')
   - each new person supported by one 
 
-- 'coffee chat'
+- 'coffee club'
   - if something is going really bad someone can go and have a last attempt to resolve problems by inviting a person discuss over coffe. This is the last chance and is quite serious. Very rare.
-  - not sure who picks this role up or how it's decided to start this
+  - members are to be picked by the main assembly
 
 - work groups 
   - permanent
-  - responsible for specific things (e.g. technology, ..)
-NOTE: need more detail on this (what sort of groups, how big, do they feed back
+  - responsible for specific things 
+  - examples :  
+    - communication
+    - negotiation with the municipality
+    - programming
+    - for each house's self-administration
+    - building-issues
+    - finances
+    - for the main assembly
+  - all meet frequently, meetings are open to newcomers
 
 
 Organisation
 ------------
 
-I don't know what other organisational structures they have.
+Two registered legal bodies: one housing association (administrting and later owning the houses) and one programming association (running the program within the houses)
+
 
 Adaptation
 ==========
@@ -172,14 +183,15 @@ In a pause in conversation Till re-asserts speaking order.
 Follow-up questions 
 -------------------
 
+[answers from till in *italics*]
+
 - How are meeting roles allocated? *- by volunteering at the start*
 - Seems there's a person taking paper notes now. Want to know what's in them, and whether they go online. *- notes of decisions made, they get emailed out to everyone*
 - Why did the person yell in form the corner of the meeting *- because they wanted to finish what they're saying, because they have important work to be done. They have announced their info multiple times, but are worried some people don't have the info yet*
 - Is there an expectation of meeting length? Do people get exhausted? *- it runs from ~7pm to 9pm so that it's not too long*
 - What's the average dinner time for people and do people eat before the meeting on average? *- the meeting is at 7pm so people who work can come. people generally eat later*
-- Do you present the agenda to new people?
-- Do people know the method of interupting?
-- I want to know whether Till as facilitator is differentiating his roles clearly, or only performing one.
-- Why are people sitting outside the circle 
-- Why do people not come to meetings, has anyone asked them?
+- Do you present the agenda to new people? *- Usually the agenda is communicated a day before the main assembly over the mailing list*
+- Do people know the method of interupting? *- Interrupting is actually considered not to be cool, nontheless people keep doing it, when they have the feeling of not being heard enough*
+- I want to know whether Till as facilitator is differentiating his roles clearly, or only performing one. *- good question wink emoticon Actually the main assembly you attended was one of the few that were not prepared, usually the facilitator is decided a week before the next meeting and can prepare better*
+- Why are people sitting outside the circle ? *-Their own choice. Why do people not come to meetings, has anyone asked them? A few people are pretty self-centered artists that don't attend meetings. The large majority of other people comes frequently, especially as soon as there is important topics to decide*
 
