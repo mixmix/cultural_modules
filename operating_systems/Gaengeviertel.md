@@ -1,7 +1,6 @@
-Mix's perspective through conversations and observation over 24 hours (2015, September 30)
+**Mix's perspective through conversations and observation over 24 hours** (2015, September 30)
 
-http://das-gaengeviertel.info/
-
+[http://das-gaengeviertel.info/](http://das-gaengeviertel.info/)
 
 ![](images/gaengeviertel_sky.jpg)
 
