@@ -1,4 +1,9 @@
 Mix's perspective through conversations and observation over 24 hours (2015, September 30)
+It's broken down using a test framework assuming that organisations are like organisms, and they both have : 
+
+- Selection pressures (which drive change)
+- Structures
+- Adaptive mechanisms
 
 ---
 
@@ -35,8 +40,8 @@ All three acknowledge that this dynamic might lead to more beauracracy, more loc
 Having said that, people in general like to share a lot within Gaengeviertel (everything is voluntary work based for example), there is also an "acceptance of loss" that is necessary in large collectives
 
 
-External
---------
+External relationships
+----------------
 
 - close working relationship with local municipality
   - recently negotiated to take over administration role of several of the rennovated gaengeviertal buildings from municipality
@@ -92,8 +97,8 @@ Organisation
 Two registered legal bodies: one housing association (administrting and later owning the houses) and one programming association (running the program within the houses)
 
 
-Adaptation
-==========
+Adaptive mechanisms
+===================
 
 - general assembly
   - can propose changes here
