@@ -10,6 +10,8 @@ Inside your meetings
 
 {% include "../modules/check_in/poster.md" %}
 
+{% include "https://raw.githubusercontent.com/mixmix/cultural_modules/master/modules/whats_the_purpose_of_this_meeting/poster.md" %}
+
 +[purpose of this meeting](../modules/whats_the_purpose_of_this_meeting/poster.md)
 
 +[scope](../modules/scope/poster.md)
