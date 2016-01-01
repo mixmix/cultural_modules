@@ -12,7 +12,7 @@ Inside your meetings
 
 ---
 
-{% include "https://raw.githubusercontent.com/mixmix/cultural_modules/master/modules/whats_the_purpose_of_this_meeting/poster.md" %}
+{% include "git+https://github.com/mixmix/cultural_modules/modules/whats_the_purpose_of_this_meeting/poster.md" %}
 
 ---
 
