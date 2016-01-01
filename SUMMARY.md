@@ -1,4 +1,4 @@
 # Summary
 
-* currently blank
+* [small group process](recipes/small_group_process.md)
 
