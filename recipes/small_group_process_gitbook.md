@@ -13,7 +13,6 @@ Inside your meetings
 ---
 
 {% include "git+https://github.com/mixmix/cultural_modules.git/modules/whats_the_purpose_of_this_meeting/poster.md#1.0.2" %}
-{% include "git+https://github.com/dev-academy-challenges/js-kata-objects-and-arrays.git/OVERVIEW.md" %}
 
 ---
 
